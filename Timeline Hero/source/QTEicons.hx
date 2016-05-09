@@ -1,5 +1,7 @@
 package;
+
 import flixel.FlxSprite;
+import flixel.input.keyboard.FlxKey;
 
 /**
  * ...
@@ -8,7 +10,8 @@ import flixel.FlxSprite;
 class QTEicons extends FlxSprite
 {
 	var randomIcon:Int;
-
+	public var button:String; // gives an button to they icon, which matches with the button pressed
+	
 	public function new() 
 	{
 		super();
@@ -16,35 +19,37 @@ class QTEicons extends FlxSprite
 		randomIcon = Math.floor(Math.random()*4);
 		this.loadGraphic(AssetPaths.UpArrow__png);
 		pickShape();
-		this.y = -50;
-		this.scale.x = this.scale.y = 0.1;
-		this.width = this.height = 100;
+		this.y = 540;
 	}
 	
 	override public function update(elapsed:Float):Void
 	{
 		super.update(elapsed);
 		
-		this.x -= 1;
+		this.x -= 8;
 	}
 	
 	function pickShape()
 	{
-		if (randomIcon == 1)
+		if (randomIcon == 1) // points to the right
 		{
 			this.angle = 90;
+			this.button = "RIGHT"; 
 		}
-		if (randomIcon == 2)
+		if (randomIcon == 2) //points downwards
 		{
 			this.angle = 180;
+			this.button = "DOWN";
 		}
-		if (randomIcon == 3)
+		if (randomIcon == 3) // points to the left
 		{
 			this.angle = 270;
+			this.button = "LEFT";
 		}
-		if (randomIcon == 4)
+		if (randomIcon == 0) // points up
 		{
 			this.angle = 0;
+			this.button = "UP";
 		}
 	}
 	

@@ -18,6 +18,6 @@
 --macro flixel.system.macros.FlxDefines.run()
 -swf-lib export/flash/obj/assets.swf
 -swf-version 11.8
--swf export/flash/bin/Timeline Hero.swf
+-swf export/flash/bin/Timeline Hero v1.swf
 -swf-header 1280:720:60:000000
 -cp export/flash/haxe

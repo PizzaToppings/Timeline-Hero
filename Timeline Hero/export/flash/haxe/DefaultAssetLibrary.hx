@@ -59,6 +59,40 @@ class DefaultAssetLibrary extends AssetLibrary {
 		
 		
 		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		openfl.text.Font.registerFont (__ASSET__OPENFL__flixel_fonts_nokiafc22_ttf);
 		openfl.text.Font.registerFont (__ASSET__OPENFL__flixel_fonts_monsterrat_ttf);
 		
@@ -69,12 +103,80 @@ class DefaultAssetLibrary extends AssetLibrary {
 		
 		className.set ("assets/data/data-goes-here.txt", __ASSET__assets_data_data_goes_here_txt);
 		type.set ("assets/data/data-goes-here.txt", AssetType.TEXT);
-		className.set ("assets/images/images-go-here.txt", __ASSET__assets_images_images_go_here_txt);
-		type.set ("assets/images/images-go-here.txt", AssetType.TEXT);
-		className.set ("assets/images/Trigger.png", __ASSET__assets_images_trigger_png);
-		type.set ("assets/images/Trigger.png", AssetType.IMAGE);
-		className.set ("assets/images/UpArrow.png", __ASSET__assets_images_uparrow_png);
-		type.set ("assets/images/UpArrow.png", AssetType.IMAGE);
+		className.set ("assets/images/Dressingroom/ButtonKleedkamer.png", __ASSET__assets_images_dressingroom_buttonkleedkamer_png);
+		type.set ("assets/images/Dressingroom/ButtonKleedkamer.png", AssetType.IMAGE);
+		className.set ("assets/images/Dressingroom/ButtonKleedkamer2.png", __ASSET__assets_images_dressingroom_buttonkleedkamer2_png);
+		type.set ("assets/images/Dressingroom/ButtonKleedkamer2.png", AssetType.IMAGE);
+		className.set ("assets/images/Dressingroom/CharacterGirlCavewoman.png", __ASSET__assets_images_dressingroom_charactergirlcavewoman_png);
+		type.set ("assets/images/Dressingroom/CharacterGirlCavewoman.png", AssetType.IMAGE);
+		className.set ("assets/images/Dressingroom/CharacterGirlNormal.png", __ASSET__assets_images_dressingroom_charactergirlnormal_png);
+		type.set ("assets/images/Dressingroom/CharacterGirlNormal.png", AssetType.IMAGE);
+		className.set ("assets/images/Dressingroom/CharacterGirlRoman.png", __ASSET__assets_images_dressingroom_charactergirlroman_png);
+		type.set ("assets/images/Dressingroom/CharacterGirlRoman.png", AssetType.IMAGE);
+		className.set ("assets/images/Events/Background_1.png", __ASSET__assets_images_events_background_1_png);
+		type.set ("assets/images/Events/Background_1.png", AssetType.IMAGE);
+		className.set ("assets/images/Events/Level_1_Counter_1.png", __ASSET__assets_images_events_level_1_counter_1_png);
+		type.set ("assets/images/Events/Level_1_Counter_1.png", AssetType.IMAGE);
+		className.set ("assets/images/Events/Level_1_Counter_2.png", __ASSET__assets_images_events_level_1_counter_2_png);
+		type.set ("assets/images/Events/Level_1_Counter_2.png", AssetType.IMAGE);
+		className.set ("assets/images/Events/Level_1_Counter_3.png", __ASSET__assets_images_events_level_1_counter_3_png);
+		type.set ("assets/images/Events/Level_1_Counter_3.png", AssetType.IMAGE);
+		className.set ("assets/images/Events/Level_1_Counter_4.png", __ASSET__assets_images_events_level_1_counter_4_png);
+		type.set ("assets/images/Events/Level_1_Counter_4.png", AssetType.IMAGE);
+		className.set ("assets/images/Events/Level_1_Counter_5.png", __ASSET__assets_images_events_level_1_counter_5_png);
+		type.set ("assets/images/Events/Level_1_Counter_5.png", AssetType.IMAGE);
+		className.set ("assets/images/Events/Level_1_Counter_6.png", __ASSET__assets_images_events_level_1_counter_6_png);
+		type.set ("assets/images/Events/Level_1_Counter_6.png", AssetType.IMAGE);
+		className.set ("assets/images/Events/Level_1_Event_1.png", __ASSET__assets_images_events_level_1_event_1_png);
+		type.set ("assets/images/Events/Level_1_Event_1.png", AssetType.IMAGE);
+		className.set ("assets/images/Events/Level_1_Event_2.png", __ASSET__assets_images_events_level_1_event_2_png);
+		type.set ("assets/images/Events/Level_1_Event_2.png", AssetType.IMAGE);
+		className.set ("assets/images/Events/Level_1_Event_3.png", __ASSET__assets_images_events_level_1_event_3_png);
+		type.set ("assets/images/Events/Level_1_Event_3.png", AssetType.IMAGE);
+		className.set ("assets/images/Events/Level_1_Event_4.png", __ASSET__assets_images_events_level_1_event_4_png);
+		type.set ("assets/images/Events/Level_1_Event_4.png", AssetType.IMAGE);
+		className.set ("assets/images/Events/Level_1_Event_5.png", __ASSET__assets_images_events_level_1_event_5_png);
+		type.set ("assets/images/Events/Level_1_Event_5.png", AssetType.IMAGE);
+		className.set ("assets/images/Events/Level_1_Event_6.png", __ASSET__assets_images_events_level_1_event_6_png);
+		type.set ("assets/images/Events/Level_1_Event_6.png", AssetType.IMAGE);
+		className.set ("assets/images/Gameplay 2/LeftButton.png", __ASSET__assets_images_gameplay_2_leftbutton_png);
+		type.set ("assets/images/Gameplay 2/LeftButton.png", AssetType.IMAGE);
+		className.set ("assets/images/Gameplay 2/RightButton.png", __ASSET__assets_images_gameplay_2_rightbutton_png);
+		type.set ("assets/images/Gameplay 2/RightButton.png", AssetType.IMAGE);
+		className.set ("assets/images/Gameplay 2/screen1correct.png", __ASSET__assets_images_gameplay_2_screen1correct_png);
+		type.set ("assets/images/Gameplay 2/screen1correct.png", AssetType.IMAGE);
+		className.set ("assets/images/Gameplay 2/screen1fail.png", __ASSET__assets_images_gameplay_2_screen1fail_png);
+		type.set ("assets/images/Gameplay 2/screen1fail.png", AssetType.IMAGE);
+		className.set ("assets/images/Gameplay 2/screen2correct.png", __ASSET__assets_images_gameplay_2_screen2correct_png);
+		type.set ("assets/images/Gameplay 2/screen2correct.png", AssetType.IMAGE);
+		className.set ("assets/images/Gameplay 2/screen2fail.png", __ASSET__assets_images_gameplay_2_screen2fail_png);
+		type.set ("assets/images/Gameplay 2/screen2fail.png", AssetType.IMAGE);
+		className.set ("assets/images/Gameplay 2/screen3correct.png", __ASSET__assets_images_gameplay_2_screen3correct_png);
+		type.set ("assets/images/Gameplay 2/screen3correct.png", AssetType.IMAGE);
+		className.set ("assets/images/Gameplay 2/screen3fail.png", __ASSET__assets_images_gameplay_2_screen3fail_png);
+		type.set ("assets/images/Gameplay 2/screen3fail.png", AssetType.IMAGE);
+		className.set ("assets/images/Gameplay 2/Timeline.png", __ASSET__assets_images_gameplay_2_timeline_png);
+		type.set ("assets/images/Gameplay 2/Timeline.png", AssetType.IMAGE);
+		className.set ("assets/images/Gameplay 2/Trigger.png", __ASSET__assets_images_gameplay_2_trigger_png);
+		type.set ("assets/images/Gameplay 2/Trigger.png", AssetType.IMAGE);
+		className.set ("assets/images/Gameplay 2/UpArrow.png", __ASSET__assets_images_gameplay_2_uparrow_png);
+		type.set ("assets/images/Gameplay 2/UpArrow.png", AssetType.IMAGE);
+		className.set ("assets/images/Misc/BoyOrGirl.png", __ASSET__assets_images_misc_boyorgirl_png);
+		type.set ("assets/images/Misc/BoyOrGirl.png", AssetType.IMAGE);
+		className.set ("assets/images/Misc/ButtonStart.png", __ASSET__assets_images_misc_buttonstart_png);
+		type.set ("assets/images/Misc/ButtonStart.png", AssetType.IMAGE);
+		className.set ("assets/images/Misc/ButtonStart2.png", __ASSET__assets_images_misc_buttonstart2_png);
+		type.set ("assets/images/Misc/ButtonStart2.png", AssetType.IMAGE);
+		className.set ("assets/images/Misc/ButtonTerug.png", __ASSET__assets_images_misc_buttonterug_png);
+		type.set ("assets/images/Misc/ButtonTerug.png", AssetType.IMAGE);
+		className.set ("assets/images/Misc/ChooseBoy.png", __ASSET__assets_images_misc_chooseboy_png);
+		type.set ("assets/images/Misc/ChooseBoy.png", AssetType.IMAGE);
+		className.set ("assets/images/Misc/ChooseGirl.png", __ASSET__assets_images_misc_choosegirl_png);
+		type.set ("assets/images/Misc/ChooseGirl.png", AssetType.IMAGE);
+		className.set ("assets/images/Misc/ContinueButton.png", __ASSET__assets_images_misc_continuebutton_png);
+		type.set ("assets/images/Misc/ContinueButton.png", AssetType.IMAGE);
+		className.set ("assets/images/Misc/Credits1.png", __ASSET__assets_images_misc_credits1_png);
+		type.set ("assets/images/Misc/Credits1.png", AssetType.IMAGE);
 		className.set ("assets/music/music-goes-here.txt", __ASSET__assets_music_music_goes_here_txt);
 		type.set ("assets/music/music-goes-here.txt", AssetType.TEXT);
 		className.set ("assets/sounds/sounds-go-here.txt", __ASSET__assets_sounds_sounds_go_here_txt);
@@ -98,15 +200,151 @@ class DefaultAssetLibrary extends AssetLibrary {
 		path.set (id, id);
 		
 		type.set (id, AssetType.TEXT);
-		id = "assets/images/images-go-here.txt";
-		path.set (id, id);
-		
-		type.set (id, AssetType.TEXT);
-		id = "assets/images/Trigger.png";
+		id = "assets/images/Dressingroom/ButtonKleedkamer.png";
 		path.set (id, id);
 		
 		type.set (id, AssetType.IMAGE);
-		id = "assets/images/UpArrow.png";
+		id = "assets/images/Dressingroom/ButtonKleedkamer2.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Dressingroom/CharacterGirlCavewoman.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Dressingroom/CharacterGirlNormal.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Dressingroom/CharacterGirlRoman.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Events/Background_1.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Events/Level_1_Counter_1.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Events/Level_1_Counter_2.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Events/Level_1_Counter_3.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Events/Level_1_Counter_4.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Events/Level_1_Counter_5.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Events/Level_1_Counter_6.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Events/Level_1_Event_1.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Events/Level_1_Event_2.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Events/Level_1_Event_3.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Events/Level_1_Event_4.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Events/Level_1_Event_5.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Events/Level_1_Event_6.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Gameplay 2/LeftButton.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Gameplay 2/RightButton.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Gameplay 2/screen1correct.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Gameplay 2/screen1fail.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Gameplay 2/screen2correct.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Gameplay 2/screen2fail.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Gameplay 2/screen3correct.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Gameplay 2/screen3fail.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Gameplay 2/Timeline.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Gameplay 2/Trigger.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Gameplay 2/UpArrow.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Misc/BoyOrGirl.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Misc/ButtonStart.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Misc/ButtonStart2.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Misc/ButtonTerug.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Misc/ChooseBoy.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Misc/ChooseGirl.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Misc/ContinueButton.png";
+		path.set (id, id);
+		
+		type.set (id, AssetType.IMAGE);
+		id = "assets/images/Misc/Credits1.png";
 		path.set (id, id);
 		
 		type.set (id, AssetType.IMAGE);
@@ -159,14 +397,116 @@ class DefaultAssetLibrary extends AssetLibrary {
 		className.set ("assets/data/data-goes-here.txt", __ASSET__assets_data_data_goes_here_txt);
 		type.set ("assets/data/data-goes-here.txt", AssetType.TEXT);
 		
-		className.set ("assets/images/images-go-here.txt", __ASSET__assets_images_images_go_here_txt);
-		type.set ("assets/images/images-go-here.txt", AssetType.TEXT);
+		className.set ("assets/images/Dressingroom/ButtonKleedkamer.png", __ASSET__assets_images_dressingroom_buttonkleedkamer_png);
+		type.set ("assets/images/Dressingroom/ButtonKleedkamer.png", AssetType.IMAGE);
 		
-		className.set ("assets/images/Trigger.png", __ASSET__assets_images_trigger_png);
-		type.set ("assets/images/Trigger.png", AssetType.IMAGE);
+		className.set ("assets/images/Dressingroom/ButtonKleedkamer2.png", __ASSET__assets_images_dressingroom_buttonkleedkamer2_png);
+		type.set ("assets/images/Dressingroom/ButtonKleedkamer2.png", AssetType.IMAGE);
 		
-		className.set ("assets/images/UpArrow.png", __ASSET__assets_images_uparrow_png);
-		type.set ("assets/images/UpArrow.png", AssetType.IMAGE);
+		className.set ("assets/images/Dressingroom/CharacterGirlCavewoman.png", __ASSET__assets_images_dressingroom_charactergirlcavewoman_png);
+		type.set ("assets/images/Dressingroom/CharacterGirlCavewoman.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Dressingroom/CharacterGirlNormal.png", __ASSET__assets_images_dressingroom_charactergirlnormal_png);
+		type.set ("assets/images/Dressingroom/CharacterGirlNormal.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Dressingroom/CharacterGirlRoman.png", __ASSET__assets_images_dressingroom_charactergirlroman_png);
+		type.set ("assets/images/Dressingroom/CharacterGirlRoman.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Events/Background_1.png", __ASSET__assets_images_events_background_1_png);
+		type.set ("assets/images/Events/Background_1.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Events/Level_1_Counter_1.png", __ASSET__assets_images_events_level_1_counter_1_png);
+		type.set ("assets/images/Events/Level_1_Counter_1.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Events/Level_1_Counter_2.png", __ASSET__assets_images_events_level_1_counter_2_png);
+		type.set ("assets/images/Events/Level_1_Counter_2.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Events/Level_1_Counter_3.png", __ASSET__assets_images_events_level_1_counter_3_png);
+		type.set ("assets/images/Events/Level_1_Counter_3.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Events/Level_1_Counter_4.png", __ASSET__assets_images_events_level_1_counter_4_png);
+		type.set ("assets/images/Events/Level_1_Counter_4.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Events/Level_1_Counter_5.png", __ASSET__assets_images_events_level_1_counter_5_png);
+		type.set ("assets/images/Events/Level_1_Counter_5.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Events/Level_1_Counter_6.png", __ASSET__assets_images_events_level_1_counter_6_png);
+		type.set ("assets/images/Events/Level_1_Counter_6.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Events/Level_1_Event_1.png", __ASSET__assets_images_events_level_1_event_1_png);
+		type.set ("assets/images/Events/Level_1_Event_1.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Events/Level_1_Event_2.png", __ASSET__assets_images_events_level_1_event_2_png);
+		type.set ("assets/images/Events/Level_1_Event_2.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Events/Level_1_Event_3.png", __ASSET__assets_images_events_level_1_event_3_png);
+		type.set ("assets/images/Events/Level_1_Event_3.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Events/Level_1_Event_4.png", __ASSET__assets_images_events_level_1_event_4_png);
+		type.set ("assets/images/Events/Level_1_Event_4.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Events/Level_1_Event_5.png", __ASSET__assets_images_events_level_1_event_5_png);
+		type.set ("assets/images/Events/Level_1_Event_5.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Events/Level_1_Event_6.png", __ASSET__assets_images_events_level_1_event_6_png);
+		type.set ("assets/images/Events/Level_1_Event_6.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Gameplay 2/LeftButton.png", __ASSET__assets_images_gameplay_2_leftbutton_png);
+		type.set ("assets/images/Gameplay 2/LeftButton.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Gameplay 2/RightButton.png", __ASSET__assets_images_gameplay_2_rightbutton_png);
+		type.set ("assets/images/Gameplay 2/RightButton.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Gameplay 2/screen1correct.png", __ASSET__assets_images_gameplay_2_screen1correct_png);
+		type.set ("assets/images/Gameplay 2/screen1correct.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Gameplay 2/screen1fail.png", __ASSET__assets_images_gameplay_2_screen1fail_png);
+		type.set ("assets/images/Gameplay 2/screen1fail.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Gameplay 2/screen2correct.png", __ASSET__assets_images_gameplay_2_screen2correct_png);
+		type.set ("assets/images/Gameplay 2/screen2correct.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Gameplay 2/screen2fail.png", __ASSET__assets_images_gameplay_2_screen2fail_png);
+		type.set ("assets/images/Gameplay 2/screen2fail.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Gameplay 2/screen3correct.png", __ASSET__assets_images_gameplay_2_screen3correct_png);
+		type.set ("assets/images/Gameplay 2/screen3correct.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Gameplay 2/screen3fail.png", __ASSET__assets_images_gameplay_2_screen3fail_png);
+		type.set ("assets/images/Gameplay 2/screen3fail.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Gameplay 2/Timeline.png", __ASSET__assets_images_gameplay_2_timeline_png);
+		type.set ("assets/images/Gameplay 2/Timeline.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Gameplay 2/Trigger.png", __ASSET__assets_images_gameplay_2_trigger_png);
+		type.set ("assets/images/Gameplay 2/Trigger.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Gameplay 2/UpArrow.png", __ASSET__assets_images_gameplay_2_uparrow_png);
+		type.set ("assets/images/Gameplay 2/UpArrow.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Misc/BoyOrGirl.png", __ASSET__assets_images_misc_boyorgirl_png);
+		type.set ("assets/images/Misc/BoyOrGirl.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Misc/ButtonStart.png", __ASSET__assets_images_misc_buttonstart_png);
+		type.set ("assets/images/Misc/ButtonStart.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Misc/ButtonStart2.png", __ASSET__assets_images_misc_buttonstart2_png);
+		type.set ("assets/images/Misc/ButtonStart2.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Misc/ButtonTerug.png", __ASSET__assets_images_misc_buttonterug_png);
+		type.set ("assets/images/Misc/ButtonTerug.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Misc/ChooseBoy.png", __ASSET__assets_images_misc_chooseboy_png);
+		type.set ("assets/images/Misc/ChooseBoy.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Misc/ChooseGirl.png", __ASSET__assets_images_misc_choosegirl_png);
+		type.set ("assets/images/Misc/ChooseGirl.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Misc/ContinueButton.png", __ASSET__assets_images_misc_continuebutton_png);
+		type.set ("assets/images/Misc/ContinueButton.png", AssetType.IMAGE);
+		
+		className.set ("assets/images/Misc/Credits1.png", __ASSET__assets_images_misc_credits1_png);
+		type.set ("assets/images/Misc/Credits1.png", AssetType.IMAGE);
 		
 		className.set ("assets/music/music-goes-here.txt", __ASSET__assets_music_music_goes_here_txt);
 		type.set ("assets/music/music-goes-here.txt", AssetType.TEXT);
@@ -834,9 +1174,43 @@ class DefaultAssetLibrary extends AssetLibrary {
 #if flash
 
 @:keep @:bind #if display private #end class __ASSET__assets_data_data_goes_here_txt extends flash.utils.ByteArray { }
-@:keep @:bind #if display private #end class __ASSET__assets_images_images_go_here_txt extends flash.utils.ByteArray { }
-@:keep @:bind #if display private #end class __ASSET__assets_images_trigger_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
-@:keep @:bind #if display private #end class __ASSET__assets_images_uparrow_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_dressingroom_buttonkleedkamer_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_dressingroom_buttonkleedkamer2_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_dressingroom_charactergirlcavewoman_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_dressingroom_charactergirlnormal_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_dressingroom_charactergirlroman_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_events_background_1_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_events_level_1_counter_1_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_events_level_1_counter_2_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_events_level_1_counter_3_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_events_level_1_counter_4_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_events_level_1_counter_5_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_events_level_1_counter_6_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_events_level_1_event_1_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_events_level_1_event_2_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_events_level_1_event_3_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_events_level_1_event_4_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_events_level_1_event_5_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_events_level_1_event_6_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_gameplay_2_leftbutton_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_gameplay_2_rightbutton_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_gameplay_2_screen1correct_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_gameplay_2_screen1fail_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_gameplay_2_screen2correct_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_gameplay_2_screen2fail_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_gameplay_2_screen3correct_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_gameplay_2_screen3fail_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_gameplay_2_timeline_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_gameplay_2_trigger_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_gameplay_2_uparrow_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_misc_boyorgirl_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_misc_buttonstart_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_misc_buttonstart2_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_misc_buttonterug_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_misc_chooseboy_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_misc_choosegirl_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_misc_continuebutton_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind #if display private #end class __ASSET__assets_images_misc_credits1_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind #if display private #end class __ASSET__assets_music_music_goes_here_txt extends flash.utils.ByteArray { }
 @:keep @:bind #if display private #end class __ASSET__assets_sounds_sounds_go_here_txt extends flash.utils.ByteArray { }
 @:keep @:bind #if display private #end class __ASSET__flixel_sounds_beep_mp3 extends flash.media.Sound { }
@@ -847,6 +1221,40 @@ class DefaultAssetLibrary extends AssetLibrary {
 
 
 #elseif html5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -869,9 +1277,43 @@ class DefaultAssetLibrary extends AssetLibrary {
 
 
 @:file("assets/data/data-goes-here.txt") #if display private #end class __ASSET__assets_data_data_goes_here_txt extends lime.utils.Bytes {}
-@:file("assets/images/images-go-here.txt") #if display private #end class __ASSET__assets_images_images_go_here_txt extends lime.utils.Bytes {}
-@:image("assets/images/Trigger.png") #if display private #end class __ASSET__assets_images_trigger_png extends lime.graphics.Image {}
-@:image("assets/images/UpArrow.png") #if display private #end class __ASSET__assets_images_uparrow_png extends lime.graphics.Image {}
+@:image("assets/images/Dressingroom/ButtonKleedkamer.png") #if display private #end class __ASSET__assets_images_dressingroom_buttonkleedkamer_png extends lime.graphics.Image {}
+@:image("assets/images/Dressingroom/ButtonKleedkamer2.png") #if display private #end class __ASSET__assets_images_dressingroom_buttonkleedkamer2_png extends lime.graphics.Image {}
+@:image("assets/images/Dressingroom/CharacterGirlCavewoman.png") #if display private #end class __ASSET__assets_images_dressingroom_charactergirlcavewoman_png extends lime.graphics.Image {}
+@:image("assets/images/Dressingroom/CharacterGirlNormal.png") #if display private #end class __ASSET__assets_images_dressingroom_charactergirlnormal_png extends lime.graphics.Image {}
+@:image("assets/images/Dressingroom/CharacterGirlRoman.png") #if display private #end class __ASSET__assets_images_dressingroom_charactergirlroman_png extends lime.graphics.Image {}
+@:image("assets/images/Events/Background_1.png") #if display private #end class __ASSET__assets_images_events_background_1_png extends lime.graphics.Image {}
+@:image("assets/images/Events/Level_1_Counter_1.png") #if display private #end class __ASSET__assets_images_events_level_1_counter_1_png extends lime.graphics.Image {}
+@:image("assets/images/Events/Level_1_Counter_2.png") #if display private #end class __ASSET__assets_images_events_level_1_counter_2_png extends lime.graphics.Image {}
+@:image("assets/images/Events/Level_1_Counter_3.png") #if display private #end class __ASSET__assets_images_events_level_1_counter_3_png extends lime.graphics.Image {}
+@:image("assets/images/Events/Level_1_Counter_4.png") #if display private #end class __ASSET__assets_images_events_level_1_counter_4_png extends lime.graphics.Image {}
+@:image("assets/images/Events/Level_1_Counter_5.png") #if display private #end class __ASSET__assets_images_events_level_1_counter_5_png extends lime.graphics.Image {}
+@:image("assets/images/Events/Level_1_Counter_6.png") #if display private #end class __ASSET__assets_images_events_level_1_counter_6_png extends lime.graphics.Image {}
+@:image("assets/images/Events/Level_1_Event_1.png") #if display private #end class __ASSET__assets_images_events_level_1_event_1_png extends lime.graphics.Image {}
+@:image("assets/images/Events/Level_1_Event_2.png") #if display private #end class __ASSET__assets_images_events_level_1_event_2_png extends lime.graphics.Image {}
+@:image("assets/images/Events/Level_1_Event_3.png") #if display private #end class __ASSET__assets_images_events_level_1_event_3_png extends lime.graphics.Image {}
+@:image("assets/images/Events/Level_1_Event_4.png") #if display private #end class __ASSET__assets_images_events_level_1_event_4_png extends lime.graphics.Image {}
+@:image("assets/images/Events/Level_1_Event_5.png") #if display private #end class __ASSET__assets_images_events_level_1_event_5_png extends lime.graphics.Image {}
+@:image("assets/images/Events/Level_1_Event_6.png") #if display private #end class __ASSET__assets_images_events_level_1_event_6_png extends lime.graphics.Image {}
+@:image("assets/images/Gameplay 2/LeftButton.png") #if display private #end class __ASSET__assets_images_gameplay_2_leftbutton_png extends lime.graphics.Image {}
+@:image("assets/images/Gameplay 2/RightButton.png") #if display private #end class __ASSET__assets_images_gameplay_2_rightbutton_png extends lime.graphics.Image {}
+@:image("assets/images/Gameplay 2/screen1correct.png") #if display private #end class __ASSET__assets_images_gameplay_2_screen1correct_png extends lime.graphics.Image {}
+@:image("assets/images/Gameplay 2/screen1fail.png") #if display private #end class __ASSET__assets_images_gameplay_2_screen1fail_png extends lime.graphics.Image {}
+@:image("assets/images/Gameplay 2/screen2correct.png") #if display private #end class __ASSET__assets_images_gameplay_2_screen2correct_png extends lime.graphics.Image {}
+@:image("assets/images/Gameplay 2/screen2fail.png") #if display private #end class __ASSET__assets_images_gameplay_2_screen2fail_png extends lime.graphics.Image {}
+@:image("assets/images/Gameplay 2/screen3correct.png") #if display private #end class __ASSET__assets_images_gameplay_2_screen3correct_png extends lime.graphics.Image {}
+@:image("assets/images/Gameplay 2/screen3fail.png") #if display private #end class __ASSET__assets_images_gameplay_2_screen3fail_png extends lime.graphics.Image {}
+@:image("assets/images/Gameplay 2/Timeline.png") #if display private #end class __ASSET__assets_images_gameplay_2_timeline_png extends lime.graphics.Image {}
+@:image("assets/images/Gameplay 2/Trigger.png") #if display private #end class __ASSET__assets_images_gameplay_2_trigger_png extends lime.graphics.Image {}
+@:image("assets/images/Gameplay 2/UpArrow.png") #if display private #end class __ASSET__assets_images_gameplay_2_uparrow_png extends lime.graphics.Image {}
+@:image("assets/images/Misc/BoyOrGirl.png") #if display private #end class __ASSET__assets_images_misc_boyorgirl_png extends lime.graphics.Image {}
+@:image("assets/images/Misc/ButtonStart.png") #if display private #end class __ASSET__assets_images_misc_buttonstart_png extends lime.graphics.Image {}
+@:image("assets/images/Misc/ButtonStart2.png") #if display private #end class __ASSET__assets_images_misc_buttonstart2_png extends lime.graphics.Image {}
+@:image("assets/images/Misc/ButtonTerug.png") #if display private #end class __ASSET__assets_images_misc_buttonterug_png extends lime.graphics.Image {}
+@:image("assets/images/Misc/ChooseBoy.png") #if display private #end class __ASSET__assets_images_misc_chooseboy_png extends lime.graphics.Image {}
+@:image("assets/images/Misc/ChooseGirl.png") #if display private #end class __ASSET__assets_images_misc_choosegirl_png extends lime.graphics.Image {}
+@:image("assets/images/Misc/ContinueButton.png") #if display private #end class __ASSET__assets_images_misc_continuebutton_png extends lime.graphics.Image {}
+@:image("assets/images/Misc/Credits1.png") #if display private #end class __ASSET__assets_images_misc_credits1_png extends lime.graphics.Image {}
 @:file("assets/music/music-goes-here.txt") #if display private #end class __ASSET__assets_music_music_goes_here_txt extends lime.utils.Bytes {}
 @:file("assets/sounds/sounds-go-here.txt") #if display private #end class __ASSET__assets_sounds_sounds_go_here_txt extends lime.utils.Bytes {}
 @:file("C:/HaxeToolkit/haxe/lib/flixel/4,0,1/assets/sounds/beep.mp3") #if display private #end class __ASSET__flixel_sounds_beep_mp3 extends lime.utils.Bytes {}
